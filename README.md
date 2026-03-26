@@ -1,10 +1,5 @@
 # 🌸 AI Skincare Subscription — India Market Validation
 
-## Assignment Coverage
-- **Part 1 (10 marks)** — 2000-row synthetic survey dataset with intentional dirty data
-- **Part 2 (10 marks)** — Full data cleaning + 5 derived columns
-- **Part 3 (30 marks)** — EDA with 8 charts + insights in Excel AND interactive Streamlit dashboard
-
 ## Files Included
 | File | Description |
 |------|-------------|
